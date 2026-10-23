@@ -1,0 +1,11 @@
+TRENIŅŠ 2 — darba lapa
+
+Failus atver ar IDLE (atrodams caur Windows Search, bet, ja nerādas, pamēģini atvērt Microsoft Store un lejupielādēt Python 3.13).
+Palaist: F5.
+
+A faili — kods ir salauzts. Atrodi un salabo vienu rindu.
+B faili — kods ir iesākts. Aizpildi vietu, kur stāv TODO.
+C faili - tukša lapa. Uzraksti visu pats atbilstoši uzdevuma formulējumam.
+
+Pildi uzdevumus secīgi pēc kārtas - vispirms visi A, tad visi B, tad C.
+
